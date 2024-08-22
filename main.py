@@ -33,9 +33,3 @@ if uploaded_file is not None:
     else:
         st.write("Waiting on file uploaded..")
     
-
-
-
-
-
-
